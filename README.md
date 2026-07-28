@@ -23,7 +23,7 @@ const muhammadMohsin = {
   location: "Lahore, Pakistan",
   university: "University of Management and Technology",
   stack: {
-    languages: ["C++", "Java", "JavaScript", "TypeScript", "HTML/CSS", "SQL"],
+    languages: ["C++","Python", "Java", "JavaScript", "TypeScript", "HTML/CSS", "SQL"],
     frameworks: ["React.js", "Next.js", "NestJS", "Bootstrap", "Tailwind CSS"],
     tools: ["Git", "GitHub", "Docker", "Swagger", "Postman", "JUnit"],
     platforms: ["Google Cloud Platform", "Android Studio"]
@@ -76,7 +76,7 @@ A responsive e-commerce web application featuring product listings, cart functio
 <td width="50%">
 
 <a href="https://github.com/mmohsinj/tic-tac-toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmohsinj&repo=tic-tac-toe&theme=dark&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&border_color=7dd3fc" alt="Tic Tac Toe Repo Pin"/>
+  <img src="[https://github-readme-stats.vercel.app/api/pin/?username=mmohsinj&repo=tic-tac-toe&theme=dark&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&border_color=7dd3fc](https://raw.githubusercontent.com/mmohsinj/tic-tac-toe/main/assets/tic-tac-toe-preview.png" alt="Tic Tac Toe" width="100%)" alt="Tic Tac Toe Repo Pin"/>
 </a>
 
 </td>

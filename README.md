@@ -46,13 +46,13 @@ const muhammadMohsin = {
 
 <table>
 <tr>
-<td width="50%">
+
 
 <a href="https://github.com/mmohsinj/shopsphere">
 </a>
 
 </td>
-<td width="50%">
+
 
 A responsive e-commerce web application featuring product listings, cart functionality, user authentication, and an admin panel for product management.
 

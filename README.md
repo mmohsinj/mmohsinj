@@ -23,7 +23,7 @@ const muhammadMohsin = {
   location: "Lahore, Pakistan",
   university: "University of Management and Technology",
   stack: {
-    languages: ["C++","Python", "Java", "JavaScript", "TypeScript", "HTML/CSS", "SQL"],
+    languages: ["C++", "Python", "Java", "JavaScript", "TypeScript", "HTML/CSS", "SQL"],
     frameworks: ["React.js", "Next.js", "NestJS", "Bootstrap", "Tailwind CSS"],
     tools: ["Git", "GitHub", "Docker", "Swagger", "Postman", "JUnit"],
     platforms: ["Google Cloud Platform", "Android Studio"]

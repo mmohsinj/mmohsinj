@@ -49,7 +49,6 @@ const muhammadMohsin = {
 <td width="50%">
 
 <a href="https://github.com/mmohsinj/shopsphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmohsinj&repo=shopsphere&theme=dark&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&border_color=7dd3fc" alt="ShopSphere Repo Pin"/>
 </a>
 
 </td>

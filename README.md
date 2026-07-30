@@ -72,14 +72,9 @@ A responsive e-commerce web application featuring product listings, cart functio
 
 <table>
 <tr>
-<td width="50%">
-
 <a href="https://github.com/mmohsinj/tic-tac-toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmohsinj&repo=tic-tac-toe&theme=dark&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&border_color=7dd3fc" alt="Tic Tac Toe Repo Pin"/>
 </a>
-
 </td>
-<td width="50%">
 
 A full-stack Tic Tac Toe game with player turn handling, win/draw detection, and dynamic game state management powered by a structured NestJS backend.
 
